@@ -1,0 +1,11 @@
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\bin\Debug\RandomizerApp.exe.config
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\bin\Debug\RandomizerApp.exe
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\bin\Debug\RandomizerApp.pdb
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\obj\Debug\RandomizerApp.csproj.AssemblyReference.cache
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\obj\Debug\RandomizerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\obj\Debug\RandomizerApp.Properties.Resources.resources
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\obj\Debug\RandomizerApp.csproj.GenerateResource.cache
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\obj\Debug\RandomizerApp.csproj.CoreCompileInputs.cache
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\obj\Debug\RandomizerApp.exe
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\obj\Debug\RandomizerApp.pdb
+C:\Users\batae\Desktop\C#\RandomizerApp\RandomizerApp\obj\Debug\RandomizerApp.Form1.resources
