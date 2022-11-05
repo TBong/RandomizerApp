@@ -15,36 +15,50 @@ namespace RandomizerApp
         public Form1()
         {
             InitializeComponent();
+            iscl.Visible = false;
+
         }
         private void ButtGen_Click(object sender, EventArgs e)
         {
             int from = Int32.Parse(textBox1.Text);
             int to = Int32.Parse(textBox2.Text);
-
             Random rnd = new Random();
+            int ch = -1;
+            int res = rnd.Next(from, to + 1);
+            if (ch != 0)
+            {
+                int isclNum = Int32.Parse(iscl.Text);
+                ch = isclNum;
+                if (res == isclNum)
+                {
 
-            int res = rnd.Next(from, to+1);
+                }
+                else
+                {
+                    result.Text = res.ToString();
+                }
+            }
 
-            result.Text  = res.ToString();
+            else
+            {
+                result.Text = res.ToString();
+            }
+            return;
+
+                
+            
         }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
+            if (iscl.Visible == false)
+            {
+                iscl.Visible = true;
+            }
 
-        }
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void result_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
+            else
+            {
+                iscl.Visible = false;
+            }
         }
     }
 }
